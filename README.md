@@ -6,6 +6,6 @@ I'm a Computer Engineer student passionate about software engineering.
 - **Tools:** Git, GitHub
 - **Interests:** AI, Software Engineering, Embedded Systems
 
-- ### Contacts
+### Contacts
 - [LinkedIn](https://www.linkedin.com/in/gennaro-d-avanzo-54b7b5342)
 - [Email](gennarodav2005@gmail.com)
